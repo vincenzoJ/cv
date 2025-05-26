@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Vincent Kerr
-  tagline: Senior Solution Architect
+  tagline: Senior Solutions Architect
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -20,12 +20,18 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Results-driven Senior Solutions Architect with over 20 years of experience across start-up and enterprise environments.
+    
+    Skilled in crafting cloud-native, serverless-first architectures focused on performance, scalability, and business alignment. Recognized for a proactive approach to process improvement, delivering reliable, timely, and high-quality solutions.
+    
+    Brings deep, hands-on experience applying AI to solve real-world problems and enhance product functionality. Skilled at integrating intelligent solutions that support smarter decision-making, automate routine tasks, and improve user experiences.
+    
+    Experienced in leading cross-functional teams and fostering collaborative, trust-based environments. Builds strong stakeholder relationships, ensures clear communication, and aligns technical solutions with strategic business goals. Known for delivering business-driven, effective solutions that meet both technical and organizational needs.
+
+
+
+ 
+
 education:
   title: Education
   info:
