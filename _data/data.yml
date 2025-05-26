@@ -20,7 +20,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Results-driven Senior Solutions Architect with over 20 years of experience across start-up and enterprise environments.
+    Results-driven Senior Solutions Architect with over 20 years of experience in both start-ups and enterprise environments.
     
     Skilled in crafting cloud-native, serverless-first architectures focused on performance, scalability, and business alignment. Works closely with Product Owners and business teams to define requirements and deliver solutions that support product goals and user needs.
     
@@ -89,6 +89,23 @@ experiences:
         - Collaborated closely with Business Analysts and Product Owner to align development with business needs.
         - Led planning activities including sprint planning, backlog grooming, and technical roadmap discussions.
 
+  - role: Principle PS Consultant / Lead Designer
+    time: 2006 - 2013
+    company: Kofax
+    details: |
+      Led delivery of a transactional messaging platform for a global financial services client.
+       - Handled solution design, requirements, estimation, and scheduling.
+       - Adopted agile methods and maintained daily engagement with stakeholders.
+       - Designed end-to-end ISDN30 fault processing systems under strict regulatory deadlines.
+
+  - role: Software Engineer
+    time: 2000 - 2006
+    company: Bluechip Technologies
+    details: |
+      Specialised in telephony and speech recognition systems, delivering end-to-end solutions from design to deployment.
+       - Developed speech recognition/IVR systems using Java, including JNI integration with native components.
+       - Built and maintained web interfaces with MS SQL Server, Apache, Tomcat, and JSP.
+
 skills:
   title: Skills &amp; Proficiency
 
@@ -114,7 +131,6 @@ skills:
   - name: API Design & Integration
     level: 90%
      
-      
   - name: CI/CD & IaC (CloudFormation, Monitoring)
     level: 90%
      
