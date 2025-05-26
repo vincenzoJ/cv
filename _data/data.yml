@@ -67,7 +67,7 @@ experiences:
     details: |
       Technical Lead of Workgrid’s Platform Team. Leading a team of 5 Principal Software Engineers to plan, shape, and deliver solutions on AWS for a fully serverless SaaS product.
 
-      Always hands-on, delivering and deploying code across multiple AWS services. Working with a Serverless-First approach, responsibilities are to define solutions, knowledge-share with senior leadership, and lead the delivery.
+      Always hands-on, delivering and deploying code across multiple AWS services. Worked with a Serverless-First approach, defined solutions, shared knowledge with senior leadership, and led delivery.
         - Design and implementation of a multi-account/multi-region centralised logging solution across multiple AWS Services: CloudFront, WAF, S3, API Gateway, and Lambda.
         - Delivered a multi-tenancy provisioning solution on AWS.
         - SaaS Platform Disaster Recovery design, planning, and orchestrating disaster simulations.
