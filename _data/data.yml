@@ -93,21 +93,37 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: NodeJS
-    level: 98%
-
-  - name: TypeScript
-    level: 90%
-
-  - name: AI
+  - name: Cloud, Backend & Service Architecture (AWS)
     level: 95%
 
-  - name: Agile Delivery
+  - name: Serverless Development (AWS Lambda, Step Functions, API Gateway)
+    level: 90%
+ 
+  - name: AI (LLMs, RAG, Evaluation Frameworks, Prompt Engineering)
+    level: 95%
+
+  - name: Javescript, TypeScript, Node.js
     level: 90%
 
-  - name: Serverless
+  - name: Collaboration & Leadership (Cross-functional Teams, Technical Direction, Agile)
+    level: 90%
+  
+  - name: Collaboration & Leadership (Cross-functional Teams, Technical Direction, Agile)
+    level: 90%
+     
+  - name: API Design & Integration
+    level: 90%
+     
+      
+  - name: CI/CD & IaC (CloudFormation, Monitoring)
+    level: 90%
+     
+  - name: Data & Storage (PostgreSQL, DynamoDB, JSON Schema)
     level: 90%
 
-  - name: Service Architecture 
+  - name: Agile Methodologies (Scrum, Kanban)
+    level: 90%
+
+  - name: Testing & Evaluation (Unit Testing, AI Evaluation with RAGAS, Observability)
     level: 90%
   
