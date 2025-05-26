@@ -28,6 +28,7 @@ career-profile:
     
     Experienced in leading cross-functional teams and working closely with stakeholders to ensure clear communication, trust, and alignment between technical solutions and business needs. Consistently delivers practical, effective solutions that support both technology and organizational goals.
 
+
 education:
   title: Education
   info:
@@ -111,31 +112,25 @@ skills:
 
   toolset:
   - name: Cloud, Backend & Service Architecture (AWS)
+    level: 95%
 
-  - name: Serverless Development (AWS Lambda, Step Functions, API Gateway)
+  - name: Serverless Development (AWS)
+    level: 95%
  
   - name: AI (LLMs, RAG, Evaluation Frameworks, Prompt Engineering)
-
-  - name: Javescript, TypeScript, Node.js
-
-  - name: Collaboration & Leadership (Cross-functional Teams, Technical Direction, Agile)
     level: 90%
-  
-  - name: Collaboration & Leadership (Cross-functional Teams, Technical Direction, Agile)
+
+  - name: Javascript, TypeScript, Node.js
     level: 90%
-     
+       
   - name: API Design & Integration
     level: 90%
      
-  - name: CI/CD & IaC (CloudFormation, Monitoring)
+  - name: Data & Storage (DynamoDB, RDS, OpenSearch, Kibana)
     level: 90%
-     
-  - name: Data & Storage (PostgreSQL, DynamoDB, JSON Schema)
+
+  - name: Collaboration & Leadership
     level: 90%
 
   - name: Agile Methodologies (Scrum, Kanban)
-    level: 90%
-
-  - name: Testing & Evaluation (Unit Testing, AI Evaluation with RAGAS, Observability)
-    level: 90%
-  
+    level: 90%  
