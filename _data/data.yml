@@ -56,7 +56,7 @@ experiences:
         - Collaborated with Product Owners, UX designers, and business stakeholders to define and refine product requirements and roadmap.
         - Drove early adoption and integration of LLM-based features into the product, with a focus on delivering real user value.
         - Designed and implemented AI architectures for tool/function calling, with oversight of RAG pipelines and end-to-end flow.
-        - Regular collaboraion with an internal team to develop and maintain a shared API to integrate backend services.
+        - Regular collaboration with an internal team to develop and maintain a shared API to integrate backend services.
         - Researched, built, and maintained an evaluation framework using RAGAS and LlamaIndex to improve the speed and quality of AI iteration.
         - Responsible for the development of an agentic version of the assistant, with advanced orchestration and decision-making patterns.
         - Ensured architectural decisions supported scalability, reliability, and maintainability.
