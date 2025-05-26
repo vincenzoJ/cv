@@ -46,40 +46,43 @@ experiences:
     time: 2021 - Present
     company: Workgrid Software, Belfast
     details: |
-      Senior Solutions Architect leading the design and delivery of backend services (AWS and Azure) for a cutting-edge Digital Assistant product. Focused on integrating advanced AI capabilities, particularly large language models (LLMs) and retrieval-augmented generation (RAG) while working closely with development teams, Product Owners, UX, and business stakeholders. 
+      Leading the design and delivery of backend services (AWS and Azure) for a cutting-edge Digital Assistant product. Focused on integrating advanced AI capabilities, particularly large language models (LLMs) and retrieval-augmented generation (RAG) while working closely with development teams, Product Owners, UX, and business stakeholders. 
       
-      Central to the integration of LLM features into the product, including driving the development of an evaluation framework using RAGAS and LlamaIndex to accelerate iteration. Recently led the implementation of an agentic version of the Digital Assistant.
+      Central to integrating LLM features into the product (Azure OpenAI, AWS Bedrock), including driving the development of an evaluation framework using RAGAS and LlamaIndex to accelerate iteration. 
+      
+      Took full ownership of the redesign and implementation of the latest Digital Assistant version, built from the ground up with agentic capabilities
+
         - Led a cross-functional development team in designing and implementing backend services for a Digital Assistant platform.
-        - Collaborated with Product Owners, UX designers, and business stakeholders to define and refine product requirements and architecture.
+        - Collaborated with Product Owners, UX designers, and business stakeholders to define and refine product requirements and roadmap.
         - Drove early adoption and integration of LLM-based features into the product, with a focus on delivering real user value.
         - Designed and implemented AI architectures for tool/function calling, with oversight of RAG pipelines and end-to-end flow.
         - Regularly collaborated with an internal team to develop and maintain a shared API for compatible, integrated backend services
         - Researched, built, and maintained an evaluation framework using tools like RAGAS and LlamaIndex to improve the speed and quality of AI iteration.
-        - Guided the development of an agentic version of the assistant, exploring advanced orchestration and decision-making patterns.
+        - Responsible for the development of an agentic version of the assistant, with advanced orchestration and decision-making patterns.
         - Ensured architectural decisions supported scalability, reliability, and maintainability.
         - Mentored developers and provided architectural oversight to ensure best practices across the team.
   - role: Solutions Engineer
     time: 2018 - 2021
     company: Workgrid Software, Belfast
     details: |
-      Technical Lead of Workgrid’s Platform Team. Leading a team of 5 Principal Software Engineers to plan, shape and deliver solutions on AWS for a fully serverless SaaS product.
+      Technical Lead of Workgrid’s Platform Team. Leading a team of 5 Principal Software Engineers to plan, shape, and deliver solutions on AWS for a fully serverless SaaS product.
 
       Always hands-on, delivering and deploying code across multiple AWS services. Working with a Serverless-First approach, responsibilities are to define solutions, knowledge-share with senior leadership, and lead the delivery.
-        - Design and implementation of a multi-account/multi-region centralised logging solution across numerous AWS Services: CloudFront, WAF, API Gateway and Lambda. The solution features automated log stream attachment, S3 cross region replication with a dual  log designation of Elasticsearch and an S3 data lake
-        - Delivered multi-tenancy solution using multiple AWS services: WAF, CloudFront, API Gateway
-        - SaaS Platform Disaster Recovery design, planning and orchestrating disaster simulations 
-        - Design and implementation of approach for cross-region envelope encryption
-        - Envisioned and built an eventing solution to automatically augment resources deployed in an AWS account
-        - Delivered alerting solution across the platform whereby alarms are automatically added to new AWS resources, includes central management and reporting
+        - Design and implementation of a multi-account/multi-region centralised logging solution across multiple AWS Services: CloudFront, WAF, S3, API Gateway, and Lambda.
+        - Delivered a multi-tenancy provisioning solution on AWS.
+        - SaaS Platform Disaster Recovery design, planning, and orchestrating disaster simulations.
+        - Design and implementation of approach for cross-region envelope encryption.
+        - Envisioned and built an eventing solution to automatically augment resources deployed in an AWS account.
+        - Delivered alerting solution across the platform whereby alarms are automatically added to new AWS resources, includes central management and reporting.
 
   - role: Principal Software Engineer
     time: 2015 - 2017
     company: Liberty IT (Part of Liberty Mutual group)
     details: |
-      A key member of Liberty Mutual’s fledgling AWS enablement team. The team was established to enable AWS cloud services across the enterprise, building an AWS account factory and implementing the guardrails necessary for teams adopting AWS.
-        - Developed security rules using AWS Cloudwatch and CloudTrail
-        - Built services to configure remediation actions across many AWS accounts and regions
-        - Designed an intelligent testing tool for remediation testing
+      A key member of Liberty Mutual’s fledgling AWS enablement team. The team was established to enable AWS cloud services across the enterprise.
+        - Developed security rules using AWS Cloudwatch and CloudTrail.
+        - Built services to configure remediation actions across many AWS accounts and regions.
+        - Designed an intelligent testing tool for remediation testing.
 
   - role: Principal Software Engineer 
     time: 2013 - 2015
