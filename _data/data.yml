@@ -29,34 +29,15 @@ career-profile:
     Experienced in leading cross-functional teams and fostering collaborative, trust-based environments. Builds strong stakeholder relationships, ensures clear communication, and aligns technical solutions with strategic business goals. Known for delivering business-driven, effective solutions that meet both technical and organizational needs.
 
 
-
- 
-
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  - degree: BSc in Computer Science
+    university: University of Ulster
+    time: 1996 - 2000
+  - degree: MSSc Industrial Studies
+    university: Queen's University Belfast
+    time: 2000 - 2002
 
 experiences:
   title: Experiences
