@@ -71,7 +71,7 @@ experiences:
         - Design and implementation of a multi-account/multi-region centralised logging solution across multiple AWS Services: CloudFront, WAF, S3, API Gateway, and Lambda.
         - Delivered a multi-tenancy provisioning solution on AWS.
         - SaaS Platform Disaster Recovery design, planning, and orchestrating disaster simulations.
-        - Design and implementation of approach for cross-region envelope encryption.
+        - Design and implementation of an approach for cross-region envelope encryption.
         - Envisioned and built an eventing solution to automatically augment resources deployed in an AWS account.
         - Delivered alerting solution across the platform whereby alarms are automatically added to new AWS resources, includes central management and reporting.
 
@@ -90,7 +90,7 @@ experiences:
     details: |
       Technical Lead for a team delivering an in-house insurance product management platform built on Ruby on Rails.
         - Provided day-to-day technical leadership for the Scrum team.
-        - Collaborated closely with Business Analysts and Product Owner to align development with business needs.
+        - Collaborated closely with Business Analysts and Product Owners to align development with business needs.
         - Led planning activities including sprint planning, backlog grooming, and technical roadmap discussions.
 
   - role: Principle PS Consultant / Lead Designer
