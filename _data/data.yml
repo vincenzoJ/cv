@@ -48,16 +48,16 @@ experiences:
     details: |
       Leading the design and delivery of backend services (AWS and Azure) for a cutting-edge Digital Assistant product. Focused on integrating advanced AI capabilities, particularly large language models (LLMs) and retrieval-augmented generation (RAG) while working closely with development teams, Product Owners, UX, and business stakeholders. 
       
-      Central to integrating LLM features into the product (Azure OpenAI, AWS Bedrock), including driving the development of an evaluation framework using RAGAS and LlamaIndex to accelerate iteration. 
+      Central to integrating LLMs (Azure OpenAI, AWS Bedrock) into the product, including driving the development of an internal evaluation framework to enable faster iteration. 
       
-      Took full ownership of the redesign and implementation of the latest Digital Assistant version, built from the ground up with agentic capabilities
+      Took full ownership of the redesign and implementation of the latest Digital Assistant version, built from the ground up with agentic capabilities.
 
         - Led a cross-functional development team in designing and implementing backend services for a Digital Assistant platform.
         - Collaborated with Product Owners, UX designers, and business stakeholders to define and refine product requirements and roadmap.
         - Drove early adoption and integration of LLM-based features into the product, with a focus on delivering real user value.
         - Designed and implemented AI architectures for tool/function calling, with oversight of RAG pipelines and end-to-end flow.
-        - Regularly collaborated with an internal team to develop and maintain a shared API for compatible, integrated backend services
-        - Researched, built, and maintained an evaluation framework using tools like RAGAS and LlamaIndex to improve the speed and quality of AI iteration.
+        - Regular collaboraion with an internal team to develop and maintain a shared API to integrate backend services.
+        - Researched, built, and maintained an evaluation framework using RAGAS and LlamaIndex to improve the speed and quality of AI iteration.
         - Responsible for the development of an agentic version of the assistant, with advanced orchestration and decision-making patterns.
         - Ensured architectural decisions supported scalability, reliability, and maintainability.
         - Mentored developers and provided architectural oversight to ensure best practices across the team.
