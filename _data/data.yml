@@ -111,16 +111,12 @@ skills:
 
   toolset:
   - name: Cloud, Backend & Service Architecture (AWS)
-    level: 95%
 
   - name: Serverless Development (AWS Lambda, Step Functions, API Gateway)
-    level: 90%
  
   - name: AI (LLMs, RAG, Evaluation Frameworks, Prompt Engineering)
-    level: 95%
 
   - name: Javescript, TypeScript, Node.js
-    level: 90%
 
   - name: Collaboration & Leadership (Cross-functional Teams, Technical Direction, Agile)
     level: 90%
